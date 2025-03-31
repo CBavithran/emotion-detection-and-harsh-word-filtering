@@ -1,0 +1,166 @@
+abandon:leave
+abnormal:unusual
+abuse:mistreat
+accuse:blame
+addict:habitual user
+afraid:fearful
+aggressive:assertive
+agony:distress
+alarm:concern
+angry:upset
+annoy:irritate
+anxious:worried
+appalling:shocking
+arrogant:overconfident
+ashamed:embarrassed
+awful:terrible
+bad:poor
+ban:restrict
+barbaric:uncivilized
+beggar:needy person
+bitter:sour
+blame:hold responsible
+bleak:gloomy
+blind:visually impaired
+boastful:proud
+bored:uninterested
+boring:unexciting
+brag:show off
+brainless:thoughtless
+brutal:harsh
+bully:intimidate
+careless:reckless
+chaotic:disorganized
+cheap:inexpensive
+cheat:deceive
+childish:immature
+clumsy:uncoordinated
+cold:chilly
+complain:express concerns
+confused:uncertain
+corrupt:dishonest
+coward:fearful person
+crazy:unusual
+creepy:unsettling
+criminal:lawbreaker
+cruel:unkind
+crybaby:overly sensitive
+cunning:clever
+dangerous:risky
+dark:gloomy
+deadly:lethal
+deaf:hearing impaired
+deceive:mislead
+defective:flawed
+defenseless:vulnerable
+delinquent:misguided
+depressed:sad
+desperate:hopeless
+destroy:demolish
+difficult:challenging
+dirty:unclean
+disagree:have a different view
+disappointed:let down
+disaster:catastrophe
+disgusting:unpleasant
+dishonest:deceptive
+dismal:gloomy
+distant:remote
+distract:divert
+disturbing:troubling
+dizzy:lightheaded
+dull:boring
+dumb:unwise
+enemy:opponent
+enraged:furious
+envious:jealous
+evil:immoral
+exhausted:tired
+fail:fall short
+fake:artificial
+fool:unwise person
+forgetful:absent-minded
+frightening:scary
+frustrated:annoyed
+furious:very angry
+greedy:overly ambitious
+grouchy:grumpy
+guilty:responsible
+harsh:severe
+hate:dislike
+horrible:terrible
+hostile:unfriendly
+hypocrite:insincere person
+idiot:uninformed person
+ignorant:uninformed
+ill:sick
+immature:childish
+impatient:eager
+imperfect:flawed
+impolite:rude
+impossible:very difficult
+inconsiderate:thoughtless
+indecisive:uncertain
+insane:mentally unstable
+insensitive:unaware
+insult:offend
+intolerant:close-minded
+irritate:annoy
+jealous:envious
+junky:low-quality
+lazy:inactive
+lonely:isolated
+loud:noisy
+mad:angry
+messy:disorganized
+miserable:unhappy
+nasty:unpleasant
+nervous:anxious
+noisy:loud
+obnoxious:annoying
+offensive:disrespectful
+oppressive:harsh
+outrageous:shocking
+painful:uncomfortable
+panicked:frightened
+pathetic:pitiful
+pessimistic:negative-minded
+pitiful:unfortunate
+poor:underprivileged
+problematic:troublesome
+reckless:careless
+regretful:sorry
+rude:impolite
+ruthless:merciless
+sad:unhappy
+scary:frightening
+selfish:self-centered
+shameful:embarrassing
+shocking:surprising
+sick:ill
+sinful:wrongful
+slow:delayed
+stupid:unwise
+stubborn:determined
+suspicious:doubtful
+terrible:awful
+thoughtless:careless
+threatening:menacing
+timid:shy
+tragic:sorrowful
+uncomfortable:uneasy
+unfair:biased
+unfriendly:cold
+unhappy:sad
+unkind:mean
+unreliable:undependable
+untrustworthy:dishonest
+upset:distressed
+useless:ineffective
+violent:aggressive
+weak:frail
+wicked:evil
+worried:anxious
+worthless:insignificant
+wrathful:furious
+yell:shout
