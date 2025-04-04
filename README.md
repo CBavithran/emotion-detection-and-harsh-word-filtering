@@ -1,4 +1,4 @@
-#Emotion Detection & Harsh Word Filtering for Online Etiquette  
+# Emotion Detection & Harsh Word Filtering for Online Etiquette  
 
 ## Overview  
 This project enhances online communication by detecting emotions in text and filtering out offensive words, fostering a respectful and positive digital environment.  
@@ -12,5 +12,5 @@ This project enhances online communication by detecting emotions in text and fil
 🔹 **Python**  
 🔹 **Natural Language Processing (NLP)**  
 🔹 **Machine Learning**  
-🔹 **NLTK   
+🔹 **NLTK**   
 
